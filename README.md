@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prajwalppramod
-- 👀 I’m interested in python, c++, web development
+- 👀 I’m interested in python, c, java and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on twitter @prajwalppramod 
