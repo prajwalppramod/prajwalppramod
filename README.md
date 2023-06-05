@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajwalppramod
+- 👋 Hi, I’m @prajwalppramod Graphic and UI/UX Designer
 - 👀 I’m interested in python, c, java and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
