@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ChatBot<br><br>🌱 I’m currently learning React and NextJS<br><br>👯 Checkout my project BMW Website<br><br>👨‍💻 All of my links are available at bio.link/prajwalpramod<br><br>💬 Ask me about Product Designing, Frontend Web development<br><br>📫 How to reach me prajwalppramod@gmail.com<br><br>📄 Know about my experiences rebrand.ly/prajwalsportfolio<br><br>⚡ Fun fact I am jack of all trades who's trying to master in all of those
+🔭 I’m currently working on ChatBot<br><br>🌱 I’m currently learning React and NextJS<br><br>👯 Checkout my [portfolio](www.rebrand.ly/prajwalportfolio)<br><br>👨‍💻 All of my links are available at ]bio.link/prajwalpramod](www.bio.link/prajwalpramod)<br><br>💬 Ask me about UI/UX, Product Designing and Frontend Web development<br><br>📫 How to reach me prajwalppramod@gmail.com<br><br>📄 Know about my experiences rebrand.ly/prajwalsportfolio<br><br>⚡ Fun fact I am jack of all trades who's trying to master in all of those
 
 
 ## 🌐 Socials:
